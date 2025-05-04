@@ -2,5 +2,7 @@
 
 This UI connects the work done in the Below Repo.
 
+https://github.com/NSM1997/Plant_disease_detection_artefacts.git
+
 
 It Enables users to upload images of the leaf and our UI website which was integrated thorugh backend fast API get the recommendations from the model and shows the output to the users.
